@@ -14,3 +14,10 @@ text.txt
 10000000
 Filled file: text.txt
 Test time :16.5539999008
+
+Ubuntu on Virtual Box
+python checkPerformance.py
+text.txt
+10000000
+Filled file: text.txt
+Test time :20.1036996904
